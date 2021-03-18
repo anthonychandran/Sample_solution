@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8p/NmZUIy2UEZntqWBtvjJSpRLakuryHBb033fJvc/6VykMbmhzpr0Td4kGEP9Kur+Rubc46407TKXRwtEKfhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antonyraj\\source\\repos\\AzureKeyVaultSecret\\AzureKeyVaultSecret\\AzureKeyVaultSecret.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antonyraj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\antonyraj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.0\\swashbuckle.aspnetcore.swagger.6.1.0.nupkg.sha512",
+    "C:\\Users\\antonyraj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.0\\swashbuckle.aspnetcore.swaggergen.6.1.0.nupkg.sha512",
+    "C:\\Users\\antonyraj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.0\\swashbuckle.aspnetcore.swaggerui.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
